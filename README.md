@@ -1,4 +1,4 @@
 # git-tutorial
 This is a git tutorial repository.
 <br>
-Author - Swathi Kancherla
+Author - Swathi Kancherla (vnrvjiet)
